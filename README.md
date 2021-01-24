@@ -7,6 +7,8 @@ Yes, It is supporting dns connection like no-ip or duckdns or dynu......
 
 I'm very busy; I can't answer immediately for your issue.  
 
+Connection may will not coming if device is in sleep(doze) mode in currently update but I will fix this.  
+
 +How can I build a Client?  
 - https://www.youtube.com/watch?v=3LEegvEp8_E  (thanks to AndroTricks for this video)  
 
