@@ -3,7 +3,7 @@
   <string name="msbuild">...</string>
   <string name="zipalign">...</string>
   <string name="jarsigner">...</string>
-  <string name="notify_victim">...</string>
+  <string name="notify_victim">sound.wav</string>
   <string name="notify_call">1</string>
   <string name="notify_sms">1</string>
 </resources>
