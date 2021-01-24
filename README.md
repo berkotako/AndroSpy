@@ -3,9 +3,9 @@
 
 An Android RAT that written in completely C# by me (qH0sT a.k.a Sagopa K)  
 
-Yes, It is supporting dns connection like no-ip or duckdns or dynu...... and wait, new update is coming soon.. regards, coder qh0st.  
+Yes, It is supporting dns connection like no-ip or duckdns or dynu......  
 
-I'm very busy; I can't answer immediately for your issue, I'm working on new update...  
+I'm very busy; I can't answer immediately for your issue.  
 
 +How can I build a Client?  
 - https://www.youtube.com/watch?v=3LEegvEp8_E  (thanks to AndroTricks for this video)  
@@ -40,7 +40,7 @@ For Huawei and other EMUI devices, read this article: https://dontkillmyapp.com/
 
 # Update 2021 Jan. 24  
 
-+Socket communication has been completely re-coded; quality camera view, fast and light communication. Communicate entirely with byte[] arrays; It got rid of Base64, Fast and light communication.
++ Socket communication has been completely re-coded; quality camera view, fast and light communication. Communicate entirely with byte[] arrays; It got rid of Base64, Fast and light communication.
 + The graphical user interface has been renewed.
 + File download and sending codes, photo capture codes were re-coded by creating a buffer zone.
 + "Night mode" has been added to the live camera form and live screen form.
