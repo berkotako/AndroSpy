@@ -14,6 +14,8 @@ Don't worry, there is no complicated ``Socket`` programming; all thing is simple
 
 -You must also UDP port open; select item in comboBox on NAT page of Modem: TCP and UDP (both) , otherwise you can't hear live microphone.  
 
+-Delete all files and folders in the path on SV project (SV\bin\Debug\resources\ProjectFolder\) and re-copy the Client files into the this path.  
+
 For Keylogger your victim must toggle on Accessibility button of your trojan in Settings of Device  
 
 <img src="https://user-images.githubusercontent.com/45147475/101618575-3e64ec80-3a23-11eb-8462-8d36606878d3.jpg" width="25%"></img> 
