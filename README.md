@@ -14,6 +14,8 @@ Connection may will not coming if device is in sleep(doze) mode in currently upd
 
 Don't worry, there is no complicated ``Socket`` programming; all thing is simple to understand.  
 
+-A major Socket bug that is only but only because of single word will be released as fixed in the next update.
+
 -You must also UDP port open; select item in comboBox on NAT page of Modem: TCP and UDP (both) , otherwise you can't hear live microphone.  
 
 -Delete all files and folders in the path on SV project (SV\bin\Debug\resources\ProjectFolder\) and re-copy the Client files into the this path.  
