@@ -7,6 +7,8 @@ Yes, It is supporting dns connection like no-ip or duckdns or dynu......
 
 I'm very busy; I can't answer immediately for your issue.  
 
+DON'T USE WITH MULTIPLE CLIENTS, THERE IS SOCKET BASED BUG, I HAVE FIXED THIS BUG AND WILL RELEASE NEW UPDATE SOON.  
+
 Connection may will not coming if device is in sleep(doze) mode in currently update but I will fix this.  
 
 +How can I build a Client?  
